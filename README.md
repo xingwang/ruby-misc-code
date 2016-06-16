@@ -25,3 +25,5 @@ class Second
   end
 end
 ```
+
+3) In Ruby, valid JSON **requires double quotes** unlike Javascript where the preferred way is with single quotes.
